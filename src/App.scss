@@ -6,6 +6,7 @@
   height: 100vh;
   color: black;
   box-sizing: border-box;
+  flex-direction: column;
 }
 
 #drum-machine {
@@ -36,15 +37,31 @@
 .buttons{
   height: 70px;
   width: 70px;
+  margin: 15px;
+  font-size: 20px;
+}
+
+#recording{
+  width: 700px;
+  text-align: center;
+  overflow: auto;
 }
 
 //mobile display
 
 @media (max-width: 700px){
+  .App{
+    flex-direction: column;
+  }
   #drum-machine{
     flex-direction: column;
     width: 350px;
-    height: 700px;
+    height: 800px;
+  }
+  #recording{
+    width: 350px;
+    text-align: center;
+    overflow: auto;
   }
 }
 

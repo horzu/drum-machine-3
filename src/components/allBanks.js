@@ -1,4 +1,4 @@
-export const bankOne = [
+export const allBanks = [
     {
       keyCode: 81,
       keyTrigger: 'Q',
@@ -58,10 +58,7 @@ export const bankOne = [
       keyTrigger: 'V',
       id: 'Tacet',
       url: '#'
-    }
-  ];
-  
-  export const bankTwo = [
+    },
     {
       keyCode: 81,
       keyTrigger: 'Q',
