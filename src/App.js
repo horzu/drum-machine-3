@@ -14,7 +14,6 @@ function App() {
   const playRecording = () =>{
     let index = 0;
     let recordArray = recording.split("|")
-    console.log(recordArray);
     const interval = setInterval(()=> {
         let audio = document.getElementById(recordArray[index]);
         audio.volume = volume;
@@ -61,6 +60,7 @@ function App() {
 
   return (
     <div className="App">
+      <div id="container">
       <div id="drum-machine">
         <div id="pad-bank">
             {banks.map((clip,idx) => (
@@ -104,6 +104,7 @@ function App() {
             
           )}
           <h4>{recording}</h4>
+        </div>
         </div>
     </div>
   );
