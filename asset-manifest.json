@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/drum-machine-3/static/css/main.bba27e5c.chunk.css",
-    "main.js": "/drum-machine-3/static/js/main.b8750a44.chunk.js",
-    "main.js.map": "/drum-machine-3/static/js/main.b8750a44.chunk.js.map",
+    "main.css": "/drum-machine-3/static/css/main.9bd20c88.chunk.css",
+    "main.js": "/drum-machine-3/static/js/main.68e23b88.chunk.js",
+    "main.js.map": "/drum-machine-3/static/js/main.68e23b88.chunk.js.map",
     "runtime-main.js": "/drum-machine-3/static/js/runtime-main.7a7b0583.js",
     "runtime-main.js.map": "/drum-machine-3/static/js/runtime-main.7a7b0583.js.map",
     "static/css/2.150d169a.chunk.css": "/drum-machine-3/static/css/2.150d169a.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.f2caf04c.chunk.js.map": "/drum-machine-3/static/js/3.f2caf04c.chunk.js.map",
     "index.html": "/drum-machine-3/index.html",
     "static/css/2.150d169a.chunk.css.map": "/drum-machine-3/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.bba27e5c.chunk.css.map": "/drum-machine-3/static/css/main.bba27e5c.chunk.css.map",
+    "static/css/main.9bd20c88.chunk.css.map": "/drum-machine-3/static/css/main.9bd20c88.chunk.css.map",
     "static/js/2.ef35d3e0.chunk.js.LICENSE.txt": "/drum-machine-3/static/js/2.ef35d3e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7a7b0583.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.ef35d3e0.chunk.js",
-    "static/css/main.bba27e5c.chunk.css",
-    "static/js/main.b8750a44.chunk.js"
+    "static/css/main.9bd20c88.chunk.css",
+    "static/js/main.68e23b88.chunk.js"
   ]
 }
